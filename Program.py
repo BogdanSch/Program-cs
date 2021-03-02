@@ -1,1 +1,3 @@
-print("hallo")
+from turtle import *
+
+fd(100)
